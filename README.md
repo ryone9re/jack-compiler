@@ -1,3 +1,3 @@
 # jack-compiler
 
-Compiler for jack lang made by c.
+Compiler frontend for Jack lang made by c.
